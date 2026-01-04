@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+transformers
+torch
+streamlit
+tqdm
+python-dotenv
