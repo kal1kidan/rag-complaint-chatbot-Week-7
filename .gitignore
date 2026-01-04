@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual environment
+venv/
+ENV/
+env/
+.env
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.db-journal
+
+# Data folders (optional if you don't want to push large raw data)
+data/raw/
+data/processed/
+vector_store/
+
+# Temporary files
+*.tmp
+*.bak
+
+# GitHub workflow caches
+.github/workflows/*.yml
