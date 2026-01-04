@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG Complaint Chatbot  
 **Author:** Bezawit Assefa 
 
@@ -67,3 +68,7 @@ This project allows searching consumer complaints based on meaning, not just key
 
 
 
+=======
+# rag-complaint-chatbot-Week-7
+rag-complaint-chatbot-Week-7
+>>>>>>> 0944bc7a85a1eddaa0d4f0f6ad46d35301c01fcf
